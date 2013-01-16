@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'capistrano'
   s.add_dependency 'validatable'
-  s.add_dependency 'shout-bot'
+  s.add_dependency 'shout-bot-portertech'
 
   s.add_development_dependency 'rspec'
 end
